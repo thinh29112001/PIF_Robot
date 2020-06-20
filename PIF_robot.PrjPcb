@@ -105,10 +105,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHNFETYJ
 
-<<<<<<< Updated upstream
-[Document4]
-DocumentPath=MCU.SchDoc
-=======
 [Document5]
 DocumentPath=wifi.SchDoc
 AnnotationEnabled=1
@@ -127,8 +123,7 @@ GenerateClassCluster=0
 DocumentUniqueId=WQWOWOMR
 
 [Document6]
-DocumentPath=..\..\..\lib\2020-06-18_11-57-54.pcblib
->>>>>>> Stashed changes
+DocumentPath=PIF_robot.Annotation
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -142,137 +137,27 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=ASHCPAWU
-
-<<<<<<< Updated upstream
-[Document5]
-DocumentPath=PIF_robot.SchDoc
-=======
-[Document7]
-DocumentPath=..\..\..\lib\2020-06-18_11-57-54.schlib
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=ULSKMCFI
-
-[Document6]
-DocumentPath=BLUETOOTH.SchDoc
-=======
-DocumentUniqueId=SKVMJNLJ
-
-[Document8]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\integrated_lib.LibPkg
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=LFQEUFVO
+DocumentUniqueId=BETTGGAY
 
 [Document7]
-DocumentPath=Motor Control.SchDoc
-=======
+DocumentPath=Sensor.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.SchLib
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=JHUQXTWP
 
 [Document8]
 DocumentPath=RF.SchDoc
-=======
-DocumentUniqueId=CRUMGFOI
-
-[Document10]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Resistor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=VKSCYEKR
-
-[Document11]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Capacitor.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=XYNEQVDB
-
-[Document12]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Active-Component\LED.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HMRCDVKR
-
-[Document13]
-DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -287,34 +172,9 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document14]
-DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.SchLib
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=QCROYUDU
 
 [Document9]
-DocumentPath=..\extracted\altium_lib-master\integrated_lib.LibPkg
-=======
-DocumentUniqueId=NRPUMNGK
-
-[Document15]
-DocumentPath=..\..\..\lib\150060BS75000_Altium_WL-SMCW_rev20a.IntLib
->>>>>>> Stashed changes
+DocumentPath=Motor Control.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -330,33 +190,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-<<<<<<< Updated upstream
 [Document10]
-DocumentPath=Sensor.SchDoc
-=======
-[Document16]
-DocumentPath=PIF_robot.Annotation
->>>>>>> Stashed changes
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=BETTGGAY
-=======
-DocumentUniqueId=
-
-[Document17]
-DocumentPath=..\..\..\lib\ul_1050170001\AltiumDesigner\2020-06-20_08-55-21\2020-06-20_08-55-21.PcbLib
+DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -372,8 +207,8 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document18]
-DocumentPath=..\..\..\lib\ul_1050170001\AltiumDesigner\2020-06-20_08-55-21\2020-06-20_08-55-21.SchLib
+[Document11]
+DocumentPath=BLUETOOTH.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -388,41 +223,6 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
-
-[Document19]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Project Outputs for integrated_lib\integrated_lib.IntLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
->>>>>>> Stashed changes
 
 [Configuration1]
 Name=Sources
@@ -543,7 +343,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Canon LBP6000/LBP6018
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -961,11 +761,6 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=BOM_Violations
-OutputName7=BOM Checks Report
-OutputDocumentPath7=
-OutputVariantName7=
-OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -1017,16 +812,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MBAExportPARASOLID
-OutputName10=Export PARASOLID
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=MBAExportSTEP
-OutputName11=Export STEP
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1156,7 +941,6 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
-Type117=1
 
 [Difference Levels]
 Type1=1
@@ -1224,7 +1008,6 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
-Type66=1
 
 [Electrical Rules Check]
 Type1=1
