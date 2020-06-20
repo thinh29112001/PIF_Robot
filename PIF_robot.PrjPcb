@@ -38,6 +38,23 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
+DocumentPath=PIF_robot.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=0
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=ULSKMCFI
+
+[Document2]
 DocumentPath=PIF_robot.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -54,7 +71,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VMVGGWFV
 
-[Document2]
+[Document3]
 DocumentPath=PIF_robot.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -71,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QXRWTWYF
 
-[Document3]
+[Document4]
 DocumentPath=PIF_robot.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -88,8 +105,30 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHNFETYJ
 
+<<<<<<< Updated upstream
 [Document4]
 DocumentPath=MCU.SchDoc
+=======
+[Document5]
+DocumentPath=wifi.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WQWOWOMR
+
+[Document6]
+DocumentPath=..\..\..\lib\2020-06-18_11-57-54.pcblib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -105,8 +144,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=ASHCPAWU
 
+<<<<<<< Updated upstream
 [Document5]
 DocumentPath=PIF_robot.SchDoc
+=======
+[Document7]
+DocumentPath=..\..\..\lib\2020-06-18_11-57-54.schlib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,10 +164,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=ULSKMCFI
 
 [Document6]
 DocumentPath=BLUETOOTH.SchDoc
+=======
+DocumentUniqueId=SKVMJNLJ
+
+[Document8]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\integrated_lib.LibPkg
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -137,10 +188,17 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=LFQEUFVO
 
 [Document7]
 DocumentPath=Motor Control.SchDoc
+=======
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -154,10 +212,16 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=JHUQXTWP
 
 [Document8]
 DocumentPath=RF.SchDoc
+=======
+DocumentUniqueId=CRUMGFOI
+
+[Document10]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Resistor.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -171,10 +235,44 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=QCROYUDU
+DocumentUniqueId=VKSCYEKR
 
-[Document9]
-DocumentPath=..\extracted\altium_lib-master\integrated_lib.LibPkg
+[Document11]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Capacitor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XYNEQVDB
+
+[Document12]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Active-Component\LED.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HMRCDVKR
+
+[Document13]
+DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -190,8 +288,9 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
-DocumentPath=Sensor.SchDoc
+[Document14]
+DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.SchLib
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -205,7 +304,125 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< Updated upstream
+DocumentUniqueId=QCROYUDU
+
+[Document9]
+DocumentPath=..\extracted\altium_lib-master\integrated_lib.LibPkg
+=======
+DocumentUniqueId=NRPUMNGK
+
+[Document15]
+DocumentPath=..\..\..\lib\150060BS75000_Altium_WL-SMCW_rev20a.IntLib
+>>>>>>> Stashed changes
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+<<<<<<< Updated upstream
+[Document10]
+DocumentPath=Sensor.SchDoc
+=======
+[Document16]
+DocumentPath=PIF_robot.Annotation
+>>>>>>> Stashed changes
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+<<<<<<< Updated upstream
 DocumentUniqueId=BETTGGAY
+=======
+DocumentUniqueId=
+
+[Document17]
+DocumentPath=..\..\..\lib\ul_1050170001\AltiumDesigner\2020-06-20_08-55-21\2020-06-20_08-55-21.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document18]
+DocumentPath=..\..\..\lib\ul_1050170001\AltiumDesigner\2020-06-20_08-55-21\2020-06-20_08-55-21.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document19]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document20]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Project Outputs for integrated_lib\integrated_lib.IntLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+>>>>>>> Stashed changes
 
 [Configuration1]
 Name=Sources
@@ -326,7 +543,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Microsoft Print to PDF
+TargetPrinter=Canon LBP6000/LBP6018
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
@@ -388,8 +605,6 @@ OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
 PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-Configuration9_Name1=OutputConfigurationParameter1
-Configuration9_Item1=Record=SchPrintView|ShowNoERC=True|ShowParamSet=True|ShowProbe=True|ShowBlanket=True|NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle|ShowNote=True|ShowNoteCollapsed=True|ShowOpenEnds=True|ExpandDesignator=True|ExpandNetLabel=False|ExpandPort=False|ExpandSheetNum=False|ExpandDocNum=False|PrintArea=0|PrintAreaRect.X1=0|PrintAreaRect.Y1=0|PrintAreaRect.X2=0|PrintAreaRect.Y2=0
 OutputType10=SimView Print
 OutputName10=SimView Prints
 OutputDocumentPath10=
@@ -746,6 +961,11 @@ OutputName6=Footprint Comparison Report
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
+OutputType7=BOM_Violations
+OutputName7=BOM Checks Report
+OutputDocumentPath7=
+OutputVariantName7=
+OutputDefault7=0
 
 [OutputGroup9]
 Name=Export Outputs
@@ -797,6 +1017,16 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=MBAExportPARASOLID
+OutputName10=Export PARASOLID
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=MBAExportSTEP
+OutputName11=Export STEP
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -926,6 +1156,7 @@ Type113=1
 Type114=1
 Type115=1
 Type116=1
+Type117=1
 
 [Difference Levels]
 Type1=1
@@ -993,6 +1224,7 @@ Type62=1
 Type63=1
 Type64=1
 Type65=1
+Type66=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1162,149 +1394,11 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=434113043826_Altium_WS-TASV_rev20a.IntLib
-ComponentDesignItemID0=434113043826
-ComponentSymbolReference0=434113043826
+ComponentLibraryIdentifier0=PIF_robot.SchLib
+ComponentDesignItemID0=STM32F103C8T6
+ComponentSymbolReference0=STM32F103C8T6
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=691322310002_Altium_WR-TBL_rev19a.IntLib
-ComponentDesignItemID1=691111710003
-ComponentSymbolReference1=691111710003
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=691322310002_Altium_WR-TBL_rev19a.IntLib
-ComponentDesignItemID2=691322310002
-ComponentSymbolReference2=691322310002
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=BJT.SchLib
-ComponentDesignItemID3=MMBT3904-1AM
-ComponentSymbolReference3=MMBT3904-1AM
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=Capacitor.SchLib
-ComponentDesignItemID4=Cap-100nF-50V-0805
-ComponentSymbolReference4=Cap-100nF-50V-0805
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=Capacitor.SchLib
-ComponentDesignItemID5=Cap-10uF-50V-0805
-ComponentSymbolReference5=Cap-10uF-50V-0805
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=Capacitor.SchLib
-ComponentDesignItemID6=Cap-Al-100uF-16V-D6L5
-ComponentSymbolReference6=Cap-Al-100uF-16V-D6L5
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=Header-Connector.SchLib
-ComponentDesignItemID7=Header 3
-ComponentSymbolReference7=Header 3
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=LED.SchLib
-ComponentDesignItemID8=LED-RED-TH-3mm
-ComponentSymbolReference8=LED-RED-TH-3mm
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=PI.SchLib
-ComponentDesignItemID9=AMS1117
-ComponentSymbolReference9=AMS1117
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=PI.SchLib
-ComponentDesignItemID10=XC6204B332MR
-ComponentSymbolReference10=XC6204B332MR
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=PIF_C16_lib.IntLib
-ComponentDesignItemID11=Buzzer
-ComponentSymbolReference11=Buzzer
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=PIF_C16_lib.IntLib
-ComponentDesignItemID12=Header 2
-ComponentSymbolReference12=Header 2
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=PIF_robot.SchLib
-ComponentDesignItemID13=74HC245D,652
-ComponentSymbolReference13=74HC245D,652
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=PIF_robot.SchLib
-ComponentDesignItemID14=HC-0506 SMD
-ComponentSymbolReference14=HC-0506 SMD
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=PIF_robot.SchLib
-ComponentDesignItemID15=HC-0506 TH
-ComponentSymbolReference15=HC-0506 TH
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=PIF_robot.SchLib
-ComponentDesignItemID16=LM7805 SMD
-ComponentSymbolReference16=LM7805 SMD
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
-ComponentLibIdentifierKind17=Library Name And Type
-ComponentLibraryIdentifier17=Resistor.SchLib
-ComponentDesignItemID17=Res-100K-0805
-ComponentSymbolReference17=Res-100K-0805
-ComponentUpdate17=1
-ComponentIsDeviceSheet17=0
-ComponentLibIdentifierKind18=Library Name And Type
-ComponentLibraryIdentifier18=Resistor.SchLib
-ComponentDesignItemID18=Res-10k-0805
-ComponentSymbolReference18=Res-10k-0805
-ComponentUpdate18=1
-ComponentIsDeviceSheet18=0
-ComponentLibIdentifierKind19=Library Name And Type
-ComponentLibraryIdentifier19=Resistor.SchLib
-ComponentDesignItemID19=Res-15K-0805
-ComponentSymbolReference19=Res-15K-0805
-ComponentUpdate19=1
-ComponentIsDeviceSheet19=0
-ComponentLibIdentifierKind20=Library Name And Type
-ComponentLibraryIdentifier20=Resistor.SchLib
-ComponentDesignItemID20=Res-1K-0805
-ComponentSymbolReference20=Res-1K-0805
-ComponentUpdate20=1
-ComponentIsDeviceSheet20=0
-ComponentLibIdentifierKind21=Library Name And Type
-ComponentLibraryIdentifier21=Resistor.SchLib
-ComponentDesignItemID21=Res-2.2K-0805
-ComponentSymbolReference21=Res-2.2K-0805
-ComponentUpdate21=1
-ComponentIsDeviceSheet21=0
-ComponentLibIdentifierKind22=Library Name And Type
-ComponentLibraryIdentifier22=Resistor.SchLib
-ComponentDesignItemID22=Res-4.7K-0805
-ComponentSymbolReference22=Res-4.7K-0805
-ComponentUpdate22=1
-ComponentIsDeviceSheet22=0
-ComponentLibIdentifierKind23=Library Name And Type
-ComponentLibraryIdentifier23=Resistor.SchLib
-ComponentDesignItemID23=Res-470-0805
-ComponentSymbolReference23=Res-470-0805
-ComponentUpdate23=1
-ComponentIsDeviceSheet23=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1318,167 +1412,33 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Application
+ParameterName0=Built_By
 ParameterUpdate0=1
-ParameterName1=Built_By
+ParameterName1=Comment
 ParameterUpdate1=1
-ParameterName2=Comment
+ParameterName2=Component Kind
 ParameterUpdate2=1
-ParameterName3=Compliance
+ParameterName3=Copyright
 ParameterUpdate3=1
-ParameterName4=Component Kind
+ParameterName4=Description
 ParameterUpdate4=1
-ParameterName5=ComponentLink1Description
+ParameterName5=Library Reference
 ParameterUpdate5=1
-ParameterName6=ComponentLink1URL
+ParameterName6=Manufacturer_Part_Number
 ParameterUpdate6=1
-ParameterName7=ComponentLink2Description
+ParameterName7=RefDes
 ParameterUpdate7=1
-ParameterName8=ComponentLink2URL
+ParameterName8=Type
 ParameterUpdate8=1
-ParameterName9=Contact Material
+ParameterName9=Value
 ParameterUpdate9=1
-ParameterName10=Contact Plating
+ParameterName10=Vendor
 ParameterUpdate10=1
-ParameterName11=Copyright
-ParameterUpdate11=1
-ParameterName12=Description
-ParameterUpdate12=1
-ParameterName13=Height
-ParameterUpdate13=1
-ParameterName14=LatestRevisionDate
-ParameterUpdate14=1
-ParameterName15=LatestRevisionNote
-ParameterUpdate15=1
-ParameterName16=Library Reference
-ParameterUpdate16=1
-ParameterName17=Local Supplier
-ParameterUpdate17=1
-ParameterName18=Local Supplier Link
-ParameterUpdate18=1
-ParameterName19=Local Supplier Part Number
-ParameterUpdate19=1
-ParameterName20=Mannufacture
-ParameterUpdate20=1
-ParameterName21=Mannufacture Part Number
-ParameterUpdate21=1
-ParameterName22=Manufacturer
-ParameterUpdate22=1
-ParameterName23=Manufacturer Part Number
-ParameterUpdate23=1
-ParameterName24=Manufacturer_Part_Number
-ParameterUpdate24=1
-ParameterName25=Modularity
-ParameterUpdate25=1
-ParameterName26=Mounting Technology
-ParameterUpdate26=1
-ParameterName27=Operating Temperature
-ParameterUpdate27=1
-ParameterName28=Operation Force
-ParameterUpdate28=1
-ParameterName29=Packaging
-ParameterUpdate29=1
-ParameterName30=Part Number
-ParameterUpdate30=1
-ParameterName31=PCB/Cable/Panel
-ParameterUpdate31=1
-ParameterName32=Pin Number
-ParameterUpdate32=1
-ParameterName33=Pitch
-ParameterUpdate33=1
-ParameterName34=Published Date
-ParameterUpdate34=1
-ParameterName35=Publisher
-ParameterUpdate35=1
-ParameterName36=Rated Current
-ParameterUpdate36=1
-ParameterName37=Rated Current [UL]
-ParameterUpdate37=1
-ParameterName38=Rated Voltage
-ParameterUpdate38=1
-ParameterName39=RefDes
-ParameterUpdate39=1
-ParameterName40=SourceLibrary
-ParameterUpdate40=1
-ParameterName41=Supplier 1
-ParameterUpdate41=1
-ParameterName42=Supplier 1 Link
-ParameterUpdate42=1
-ParameterName43=Supplier 1 Part Number
-ParameterUpdate43=1
-ParameterName44=Terminal Material
-ParameterUpdate44=1
-ParameterName45=Terminal Plating
-ParameterUpdate45=1
-ParameterName46=Type
-ParameterUpdate46=1
-ParameterName47=Value
-ParameterUpdate47=1
-ParameterName48=Vendor
-ParameterUpdate48=1
-ParameterName49=Washable
-ParameterUpdate49=1
-ParameterName50=Working Voltage [UL]
-ParameterUpdate50=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=434113043826
+ModelName0=LQFP-48 - duplicate
 ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=691111710003
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=691322310002
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=BUZZER
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAP-SM-0805
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CAP-SM-AL-SIZE-D-D6L6
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=HC-0506 SMD
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=HC-0506 TH
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=JP2
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=JP3
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=LED-3mm
-ModelUpdate10=1
-ModelType11=PCBLIB
-ModelName11=LM7805 SMD
-ModelUpdate11=1
-ModelType12=PCBLIB
-ModelName12=RES-SM-0805
-ModelUpdate12=1
-ModelType13=PCBLIB
-ModelName13=SOT163-1_NEX
-ModelUpdate13=1
-ModelType14=PCBLIB
-ModelName14=SOT163-1_NEX-L
-ModelUpdate14=1
-ModelType15=PCBLIB
-ModelName15=SOT163-1_NEX-M
-ModelUpdate15=1
-ModelType16=PCBLIB
-ModelName16=SOT223
-ModelUpdate16=1
-ModelType17=PCBLIB
-ModelName17=SOT23_NEX
-ModelUpdate17=1
-ModelType18=PCBLIB
-ModelName18=XC6204/05_SOT-00
-ModelUpdate18=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
