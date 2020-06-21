@@ -105,10 +105,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHNFETYJ
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [Document4]
 DocumentPath=MCU.SchDoc
 =======
+=======
+>>>>>>> master
 [Document5]
 DocumentPath=wifi.SchDoc
 AnnotationEnabled=1
@@ -127,8 +130,12 @@ GenerateClassCluster=0
 DocumentUniqueId=WQWOWOMR
 
 [Document6]
+<<<<<<< HEAD
 DocumentPath=..\..\..\lib\2020-06-18_11-57-54.pcblib
 >>>>>>> Stashed changes
+=======
+DocumentPath=PIF_robot.Annotation
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -142,6 +149,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 DocumentUniqueId=ASHCPAWU
 
 <<<<<<< Updated upstream
@@ -175,6 +183,12 @@ DocumentUniqueId=SKVMJNLJ
 [Document8]
 DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\integrated_lib.LibPkg
 >>>>>>> Stashed changes
+=======
+DocumentUniqueId=BETTGGAY
+
+[Document7]
+DocumentPath=Sensor.SchDoc
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,6 +202,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 DocumentUniqueId=LFQEUFVO
 
@@ -273,6 +288,12 @@ DocumentUniqueId=HMRCDVKR
 
 [Document13]
 DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.PcbLib
+=======
+DocumentUniqueId=
+
+[Document8]
+DocumentPath=RF.SchDoc
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -288,6 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document14]
 DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.SchLib
 >>>>>>> Stashed changes
@@ -315,6 +337,10 @@ DocumentUniqueId=NRPUMNGK
 [Document15]
 DocumentPath=..\..\..\lib\150060BS75000_Altium_WL-SMCW_rev20a.IntLib
 >>>>>>> Stashed changes
+=======
+[Document9]
+DocumentPath=Motor Control.SchDoc
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -330,6 +356,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 [Document10]
 DocumentPath=Sensor.SchDoc
@@ -391,6 +418,10 @@ DocumentUniqueId=
 
 [Document19]
 DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.PcbLib
+=======
+[Document10]
+DocumentPath=MCU.SchDoc
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -406,8 +437,13 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< HEAD
 [Document20]
 DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Project Outputs for integrated_lib\integrated_lib.IntLib
+=======
+[Document11]
+DocumentPath=BLUETOOTH.SchDoc
+>>>>>>> master
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -422,7 +458,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+<<<<<<< HEAD
 >>>>>>> Stashed changes
+=======
+>>>>>>> master
 
 [Configuration1]
 Name=Sources
