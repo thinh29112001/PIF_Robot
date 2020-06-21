@@ -105,6 +105,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GHNFETYJ
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 [Document4]
@@ -112,6 +113,8 @@ DocumentPath=MCU.SchDoc
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
 [Document5]
 DocumentPath=wifi.SchDoc
 AnnotationEnabled=1
@@ -132,32 +135,12 @@ DocumentUniqueId=WQWOWOMR
 [Document6]
 <<<<<<< HEAD
 DocumentPath=..\..\..\lib\2020-06-18_11-57-54.pcblib
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 DocumentPath=PIF_robot.Annotation
 >>>>>>> master
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< HEAD
-DocumentUniqueId=ASHCPAWU
-
-<<<<<<< Updated upstream
-[Document5]
-DocumentPath=PIF_robot.SchDoc
 =======
-[Document7]
-DocumentPath=..\..\..\lib\2020-06-18_11-57-54.schlib
 >>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -173,15 +156,32 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 <<<<<<< Updated upstream
-DocumentUniqueId=ULSKMCFI
-
-[Document6]
-DocumentPath=BLUETOOTH.SchDoc
+<<<<<<< HEAD
+DocumentUniqueId=ASHCPAWU
 =======
+DocumentUniqueId=
+>>>>>>> Stashed changes
+
+[Document7]
+DocumentPath=..\..\..\lib\2020-06-18_11-57-54.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=SKVMJNLJ
 
 [Document8]
 DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\integrated_lib.LibPkg
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 DocumentUniqueId=BETTGGAY
@@ -189,30 +189,7 @@ DocumentUniqueId=BETTGGAY
 [Document7]
 DocumentPath=Sensor.SchDoc
 >>>>>>> master
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-<<<<<<< HEAD
-<<<<<<< Updated upstream
-DocumentUniqueId=LFQEUFVO
-
-[Document7]
-DocumentPath=Motor Control.SchDoc
 =======
-DocumentUniqueId=
-
-[Document9]
-DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.SchLib
 >>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -228,11 +205,32 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 <<<<<<< Updated upstream
-DocumentUniqueId=JHUQXTWP
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+DocumentUniqueId=LFQEUFVO
 
-[Document8]
-DocumentPath=RF.SchDoc
+[Document7]
+DocumentPath=Motor Control.SchDoc
 =======
+=======
+>>>>>>> Stashed changes
+DocumentUniqueId=
+
+[Document9]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Passive-Component\Inductor.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=CRUMGFOI
 
 [Document10]
@@ -312,7 +310,6 @@ DocumentUniqueId=
 <<<<<<< HEAD
 [Document14]
 DocumentPath=..\..\..\lib\ul_IRLML6402TRPBF\AltiumDesigner\2020-06-20_07-22-20\2020-06-20_07-22-20.SchLib
->>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -326,21 +323,18 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=QCROYUDU
-
-[Document9]
-DocumentPath=..\extracted\altium_lib-master\integrated_lib.LibPkg
-=======
 DocumentUniqueId=NRPUMNGK
 
 [Document15]
 DocumentPath=..\..\..\lib\150060BS75000_Altium_WL-SMCW_rev20a.IntLib
+<<<<<<< Updated upstream
 >>>>>>> Stashed changes
 =======
 [Document9]
 DocumentPath=Motor Control.SchDoc
 >>>>>>> master
+=======
+>>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -356,14 +350,16 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 [Document10]
 DocumentPath=Sensor.SchDoc
 =======
+=======
+>>>>>>> Stashed changes
 [Document16]
 DocumentPath=PIF_robot.Annotation
->>>>>>> Stashed changes
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -377,9 +373,6 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-<<<<<<< Updated upstream
-DocumentUniqueId=BETTGGAY
-=======
 DocumentUniqueId=
 
 [Document17]
@@ -458,10 +451,98 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 >>>>>>> Stashed changes
 =======
 >>>>>>> master
+=======
+
+[Document21]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Active-Component\BJT.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document22]
+DocumentPath=..\..\..\lib\Lib_tuanngo\altium_lib\Active-Component\BJT.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document23]
+DocumentPath=dwm1001.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=HHSCXEZY
+
+[Document24]
+DocumentPath=..\..\..\lib\DWM1001\PIFWRoBot.pcblib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=..\..\..\lib\DWM1001\PIFWRoBot.schlib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+>>>>>>> Stashed changes
 
 [Configuration1]
 Name=Sources
