@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=3V3_MC Pin=C2-2
+Added Pin To Net: NetName=3V3_MC Pin=C3-2
+Added Pin To Net: NetName=3V3_MC Pin=C4-2
+Added Pin To Net: NetName=3V3_MC Pin=C14-2
+Added Pin To Net: NetName=3V3_MC Pin=D12-1
+Added Pin To Net: NetName=3V3_MC Pin=P5-1
+Added Pin To Net: NetName=3V3_MC Pin=P6-3
+Added Pin To Net: NetName=3V3_MC Pin=R6-2
+Added Room: Name=Motor Control
