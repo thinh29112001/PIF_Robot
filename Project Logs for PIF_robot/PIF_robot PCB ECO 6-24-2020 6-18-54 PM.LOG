@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=3V3_MC Pin=C24-2
+Removed Pin From Net: NetName=3V3_MC Pin=C34-2
+Removed Pin From Net: NetName=3V3_MC Pin=M10-1
+Removed Pin From Net: NetName=3V3_MC Pin=U6-14
+Added Pin To Net: NetName=3V3_MC Pin=C2-2
+Added Pin To Net: NetName=3V3_MC Pin=C3-2
+Added Pin To Net: NetName=3V3_MC Pin=C4-2
+Added Pin To Net: NetName=3V3_MC Pin=U3-9
+Added Pin To Net: NetName=3V3_MC Pin=U3-24
+Added Pin To Net: NetName=3V3_MC Pin=U3-36
+Added Pin To Net: NetName=3V3_MC Pin=U3-48
+Added Pin To Net: NetName=3V3_MCU Pin=C24-2
+Added Pin To Net: NetName=3V3_MCU Pin=C34-2
+Added Pin To Net: NetName=3V3_MCU Pin=M10-1
+Added Pin To Net: NetName=3V3_MCU Pin=U6-14
+Added Net: Name=3V3_MCU

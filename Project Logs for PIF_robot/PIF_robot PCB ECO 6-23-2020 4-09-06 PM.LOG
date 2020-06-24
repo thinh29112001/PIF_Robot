@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=3V3_WIFI Pin=C27-2
+Added Pin To Net: NetName=3V3_WIFI Pin=C28-2
+Added Pin To Net: NetName=5V WIFI Pin=IC1-3
+Added Pin To Net: NetName=3V3_WIFI Pin=M5-8
+Added Pin To Net: NetName=5V WIFI Pin=P30-2
+Added Pin To Net: NetName=3V3_WIFI Pin=R25-1
+Added Pin To Net: NetName=3V3_WIFI Pin=U1-6
+Added Pin To Net: NetName=3V3_WIFI Pin=U1-7
+Change Net Name : Old Net Name=5V USB New Net Name=5V_USB
+Change Net Name : Old Net Name=5V WIFI New Net Name=5V_WIFI

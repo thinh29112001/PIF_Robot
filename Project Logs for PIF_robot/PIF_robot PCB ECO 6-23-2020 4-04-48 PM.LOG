@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3V3 WIFI Pin=C25-1
+Change Component Footprint: Designator=D2 Old Footprint=LED_0805_Blue New Footprint=LED-3mm
+Added Pin To Net: NetName=3V3_WIFI Pin=C25-1
+Added Room: Name=wifi
