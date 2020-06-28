@@ -1,0 +1,21 @@
+Added Component: Designator=H5(LO KHOAN 3MM)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=MCU Member=Component H1 Hole
+Added Member To Class: ClassName=MCU Member=Component H2 Hole
+Added Member To Class: ClassName=MCU Member=Component H3 Hole
+Added Member To Class: ClassName=MCU Member=Component H4 Hole
+Added Member To Class: ClassName=MCU Member=Component H5 Hole
+Added Member To Class: ClassName=MCU Member=Component LOGO1 LOGO PIF
+Added Member To Class: ClassName=RF Member=Component M4 Holybro Radio
+Added Member To Class: ClassName=Bluetooth Member=Component M6 HC-0506 TH
+Added Member To Class: ClassName=Motor Control Member=Component P10 691322310004
+Added Member To Class: ClassName=Motor Control Member=Component P17 Header 3
+Added Member To Class: ClassName=Motor Control Member=Component U4 74HC245D,652
+Added Room: Name=Bluetooth
+Added Room: Name=Decawave
+Added Room: Name=MCU
+Added Room: Name=Motor Control
+Added Room: Name=Power_Supply
+Added Room: Name=RF
+Added Room: Name=Sensor
+Added Room: Name=wifi
