@@ -2,31 +2,84 @@
 FileName = PIF_robot.GBR
 AutoAperture = True
 *************************************************************
-Generating : Drill Drawing
-      File : PIF_robot.GD1
+Generating : Top Overlay
+      File : PIF_robot.GTO
 
-    Adding Drill Pair : Top Layer-Bottom Layer
-
-    Adding Layer      : Drill Drawing
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
-    D136
-    D137
-    D138
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+    D18
+    D19
+    D20
 *************************************************************
 
 *************************************************************
-Generating : Drill Guide
-      File : PIF_robot.GG1
+Generating : Top Pad Master
+      File : PIF_robot.GPT
 
-    Adding Drill Pair : Top Layer-Bottom Layer
+    Adding Layer      : Top Layer
 
-    Adding Layer      : Drill Guide
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D136
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D41
+    D42
+    D43
+    D59
+    D85
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
 *************************************************************
 
 *************************************************************
@@ -39,6 +92,149 @@ Generating : Mechanical 15
 Used DCodes :
     D134
     D135
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PIF_robot.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D89
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : PIF_robot.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D22
+    D23
+    D24
+    D36
+    D37
+    D43
+    D85
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PIF_robot.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PIF_robot.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D11
+    D12
+    D19
+    D22
+    D23
+    D24
+    D36
+    D37
+    D43
+    D85
+    D89
+    D90
+    D91
+    D92
+    D93
+    D94
+    D95
+    D96
+    D97
+    D98
+    D99
+    D100
+    D101
+    D102
+    D103
+    D104
+    D105
+    D106
+    D107
+    D108
+    D109
+    D110
+    D111
+    D112
+    D113
+    D114
+    D115
+    D116
+    D117
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 5
+      File : PIF_robot.GM5
+
+    Adding Layer      : Mechanical 5
+
+
+Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -107,6 +303,72 @@ Used DCodes :
     D115
     D116
     D117
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 14
+      File : PIF_robot.GM14
+
+    Adding Layer      : Mechanical 14
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PIF_robot.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D45
+    D46
+    D47
+    D57
+    D58
+    D62
+    D63
+    D64
+    D65
+    D66
+    D67
+    D68
+    D69
+    D70
+    D71
+    D72
+    D73
+    D74
+    D75
+    D76
+    D77
+    D78
+    D79
+    D80
+    D81
+    D82
+    D83
+    D84
+    D85
+    D86
+    D87
+    D88
+    D121
+    D122
+    D126
+    D127
+    D128
+    D129
+    D130
+    D131
+    D132
 *************************************************************
 
 *************************************************************
@@ -205,14 +467,32 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Keep-Out Layer
-      File : PIF_robot.GKO
+Generating : Bottom Paste
+      File : PIF_robot.GBP
 
-    Adding Layer      : Keep-Out Layer
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
 
 
 Used DCodes :
-    D89
+    D22
+    D23
+    D24
+    D36
+    D37
+    D43
+    D118
+    D119
+    D120
+    D121
+    D122
+    D123
+    D124
+    D125
+    D126
 *************************************************************
 
 *************************************************************
@@ -253,310 +533,29 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Top Overlay
-      File : PIF_robot.GTO
+Generating : Drill Drawing
+      File : PIF_robot.GD1
 
-    Adding Layer      : Top Overlay
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
-    D15
-    D16
-    D17
-    D18
-    D19
-    D20
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 14
-      File : PIF_robot.GM14
-
-    Adding Layer      : Mechanical 14
+    Adding Layer      : Drill Drawing
 
 
 Used DCodes :
-    D10
+    D136
+    D137
 *************************************************************
 
 *************************************************************
-Generating : Top Pad Master
-      File : PIF_robot.GPT
+Generating : Drill Guide
+      File : PIF_robot.GG1
 
-    Adding Layer      : Top Layer
+    Adding Drill Pair : Top Layer-Bottom Layer
 
-    Adding Layer      : Multi-Layer
+    Adding Layer      : Drill Guide
 
 
 Used DCodes :
-    D21
-    D22
-    D23
-    D24
-    D25
-    D26
-    D27
-    D28
-    D29
-    D30
-    D31
-    D32
-    D33
-    D34
-    D35
-    D36
-    D37
-    D38
-    D39
-    D41
-    D42
-    D43
-    D59
-    D85
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 5
-      File : PIF_robot.GM5
-
-    Adding Layer      : Mechanical 5
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 1
-      File : PIF_robot.GM1
-
-    Adding Layer      : Mechanical 1
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Pad Master
-      File : PIF_robot.GPB
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D36
-    D37
-    D43
-    D85
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Layer
-      File : PIF_robot.GBL
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D11
-    D12
-    D19
-    D22
-    D23
-    D24
-    D36
-    D37
-    D43
-    D85
-    D89
-    D90
-    D91
-    D92
-    D93
-    D94
-    D95
-    D96
-    D97
-    D98
-    D99
-    D100
-    D101
-    D102
-    D103
-    D104
-    D105
-    D106
-    D107
-    D108
-    D109
-    D110
-    D111
-    D112
-    D113
-    D114
-    D115
-    D116
-    D117
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Paste
-      File : PIF_robot.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D22
-    D23
-    D24
-    D36
-    D37
-    D43
-    D118
-    D119
-    D120
-    D121
-    D122
-    D123
-    D124
-    D125
-    D126
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PIF_robot.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D45
-    D46
-    D47
-    D57
-    D58
-    D62
-    D63
-    D64
-    D65
-    D66
-    D67
-    D68
-    D69
-    D70
-    D71
-    D72
-    D73
-    D74
-    D75
-    D76
-    D77
-    D78
-    D79
-    D80
-    D81
-    D82
-    D83
-    D84
-    D85
-    D86
-    D87
-    D88
-    D121
-    D122
-    D126
-    D127
-    D128
-    D129
-    D130
-    D131
-    D132
+    D136
 *************************************************************
 
