@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.Form1.resources
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\bin\Debug\Balancing_robot_GUI.exe.config
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\bin\Debug\Balancing_robot_GUI.exe
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\bin\Debug\Balancing_robot_GUI.pdb
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\bin\Debug\kayChart.dll
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.exe
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\obj\Debug\Balancing_robot_GUI.pdb
+C:\Users\Lenovo\source\repos\Balancing_robot_GUI\bin\Debug\ZedGraph.dll
