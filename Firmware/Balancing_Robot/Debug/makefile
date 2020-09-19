@@ -37,8 +37,8 @@ PIF_balance_robot.list \
 all: PIF_balance_robot.elf secondary-outputs
 
 # Tool invocations
-PIF_balance_robot.elf: $(OBJS) $(USER_OBJS) D:\PIF_Robot\Firmware\Balancing_Robot\PIF_balance_robot\STM32F103C8TX_FLASH.ld
-	arm-none-eabi-gcc -o "PIF_balance_robot.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\PIF_Robot\Firmware\Balancing_Robot\PIF_balance_robot\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PIF_balance_robot.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+PIF_balance_robot.elf: $(OBJS) $(USER_OBJS) D:\PIF_Robot\Firmware\Balancing_Robot\STM32F103C8TX_FLASH.ld
+	arm-none-eabi-gcc -o "PIF_balance_robot.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"D:\PIF_Robot\Firmware\Balancing_Robot\STM32F103C8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="PIF_balance_robot.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 
